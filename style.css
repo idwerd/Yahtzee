@@ -1,0 +1,60 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 20px;
+}
+#yahtzee, #verwerken {
+    border: 1px solid;
+    width: 500px;
+    padding: 20px;
+    display: block;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h1 {
+    margin: 0px;
+}
+h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+/* SCOREBLOK */
+.scoreblok {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 308px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    text-align: center;
+}
+td {
+    border: 1px solid;
+    width: 60px;
+    height: 60px;
+    
+}
+button {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+
+/* PUNTENTELLING */
+#verwerken table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+#verwerken table td {
+    padding-left: 10px;
+}
+td.punten {
+    padding-right: 10px;
+    text-align: center;
+}

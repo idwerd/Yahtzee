@@ -211,4 +211,3 @@ function straights() {
         return 4;
     }
 }   
-
